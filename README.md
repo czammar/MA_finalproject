@@ -1,7 +1,15 @@
 # Proyecto Metodos Analiticos
 
-Proyecto final de Métodos AnAnalitocs
+**Integrantes del equipo**
 
-Cesar Zamora
-czamora5@itam.mx
+|   | Persona               | Clave     |
+|:-:|-----------------------|-----------|
+| 1 | Danahi Ramos Martínez | Pendiente |
+| 2 | Yalidt Díaz Vasquez   | Pendiente |
+| 3 | César Zamora Martínez | 190609    |
+
+
+
+Fuente de datos:
+https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/data
 
