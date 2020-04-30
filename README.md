@@ -5,7 +5,7 @@
 |   | Persona               | Clave     |
 |:-:|-----------------------|-----------|
 | 1 | Danahi Ramos Martínez | 150237    |
-| 2 | Yalidt Díaz Vasquez   | Pendiente |
+| 2 | Yalidt Díaz Vazquez   | 141394    |
 | 3 | César Zamora Martínez | 190609    |
 
 
